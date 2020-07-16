@@ -1,0 +1,9 @@
+{
+    "require": {
+        "predis/predis": "^1.1",
+        "vlucas/phpdotenv": "^5.1"
+    },
+    "autoload": {
+        "classmap": ["examples/", ""]
+    }
+}
